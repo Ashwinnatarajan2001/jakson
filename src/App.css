@@ -1,0 +1,19 @@
+.board-row {
+  
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: rgb(43, 141, 226);
+  color: rgb(255, 157, 0);
+}
+.board-container {
+  margin: 20px;
+  
+  
+}
+.Center{
+  padding-top: 50%;
+  text-align: center;
+  font-size: 50px;
+}
+
